@@ -9,4 +9,4 @@ Hypothesis testing confirms weather plays a crucial role in determining the aver
 
 
 
-folium notebook contains interactive maps. Images of maps are located in figures folder.
+Folium notebook contains interactive maps. Images of maps are located in figures folder.
