@@ -1,4 +1,6 @@
 # Zuber-Web-Scrapping
+![image](https://user-images.githubusercontent.com/115895428/216845409-bc1e3957-2ab3-4816-9ea0-d3ad367424f1.png)
+
 ## Purpose
 Zuber is a new ride-sharing company that is launching in Chicago. We are tasked to find patterns in the available information. The goal of the project is to understand passenger passenger preferences and the impact of external factors on rides. Working with the database, we will analyze data from competitors and test a hypothesis about the impact of weather on ride frequency. 
 
